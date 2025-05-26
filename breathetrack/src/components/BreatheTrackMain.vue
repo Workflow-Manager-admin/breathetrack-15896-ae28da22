@@ -116,7 +116,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 // PUBLIC_INTERFACE
 /**
  * Main container for BreatheTrack app.
